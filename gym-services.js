@@ -3,7 +3,7 @@
 		id: 1,
 		name: 'Personal Training',
 		price: '$50',
-		image: ''
+		image: 'test'
 	},
 	{
 		id: 2,
